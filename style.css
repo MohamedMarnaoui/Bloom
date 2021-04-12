@@ -1,0 +1,241 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap');
+/* font-family: 'Open Sans', sans-serif; 
+font-family: 'Libre Caslon Display', serif;
+font-family: 'Open Sans', sans-serif; fw:300 */
+
+
+body {
+
+    padding: 0;
+    margin: 0;
+    background-color:#fff ;
+}
+
+header h1 {
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 2.9rem;
+    text-transform: uppercase;
+    text-align: center;
+    margin: 0;
+    padding: 0.5% 0 1% 0;
+}
+
+ul li {
+
+    display: inline-block;
+    padding: 0 4.0%;
+    font-size: 4 rem;
+    font-family: 'Open Sans', sans-serif; 
+    font-weight: 100;
+    text-transform: uppercase;
+    
+}
+
+ header {
+
+    text-align: center;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    background-color: #fff;
+    
+}
+
+section h2 {
+    
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 3rem;
+    text-transform: capitalize;
+    font-weight: 500;
+    text-align: center;
+    padding: 8% 0 0 0;
+
+}
+
+
+section p {
+
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    font-family: 'Open Sans', sans-serif;
+    padding: 0 15%;
+
+}
+
+.rosen {
+
+    text-align: center;
+    
+    
+}
+
+main h3 {
+
+    font-family: 'Libre Caslon Display', serif;
+    font-weight: 500;
+    font-size: 2.5rem;
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+section table {
+
+        margin: 0 auto ;
+        font-family: 'Open Sans', sans-serif;
+        font-size: 18px;
+        
+}
+
+.firstrow {
+
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 1.5rem;
+    font-weight: 600;
+    text-transform: capitalize;
+    
+
+}
+
+main table {
+text-align: center;
+
+}
+
+.secondrow {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 1.1rem;
+    font-weight: 300;
+    padding: 2% 5%;
+    
+}
+
+.thirdrow {
+
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 1.4rem;
+    font-weight: 700;
+    padding: 0 0 1.0% 0;
+    
+}
+
+.forthrow {
+    
+    font-family: 'Open Sans', sans-serif;
+    
+    font-size: 1.3rem;
+    font-weight: 300;
+    padding: 0 0 1.0% 0;
+
+}
+
+
+
+.fifthrow {
+    font-family: 'Open Sans', sans-serif;
+    
+    font-size: 1.3rem;
+    font-weight: 300;
+    padding: 0 0 1.0% 0;
+    
+
+}
+
+
+.sixthrow {
+
+    font-family: 'Open Sans', sans-serif;
+    
+    font-size: 1.3rem;
+    font-weight: 300;
+    padding: 0 0 5.0% 0;
+    text-transform: capitalize;
+    
+
+}
+
+
+.button {
+
+    width: 600px;
+    height: 46px;
+    background-color: #3d4246;
+    margin: 0 auto ; 
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-family: 'Libre Caslon Display', serif;
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    
+}
+
+.wrap {
+
+    padding: 0 0 6% 0;
+}
+
+.bg {
+
+    width: 90%;
+    height: 90vh;
+    background-image: url(./img/couch.png);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: contain;
+    background-position: center;
+    margin:auto ;
+}
+
+
+
+p{
+
+    font-family: 'Open Sans', sans-serif;
+    
+    font-size: 1.2rem;
+    font-weight: 300;
+    margin-bottom: 5%;
+    
+}
+
+section footer {
+
+    background-color: #f5f5f5;
+    width: 100%;
+    height: 40%;
+    padding: 2% 7%;
+    text-align: left;
+    font-weight: 700;
+    
+    
+}
+
+
+
+#head {
+
+
+padding-bottom: 1%;
+border-bottom: 2px solid #f5f5f5;
+
+}
+
+.fuß {
+    font-size: 1.0rem;
+    color:#000 ;
+    font-weight: 500;
+}
